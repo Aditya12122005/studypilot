@@ -1,0 +1,7 @@
+.venv/
+modules/model_cache/
+modules/nltk_data/
+__pycache__/
+.env
+*.joblib
+.streamlit/secrets.toml
